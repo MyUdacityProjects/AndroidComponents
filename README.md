@@ -1,3 +1,3 @@
-# AndroidComponents
+# Android Components
 
-Simple app describing android components
+A simple app describing android components. This was build while learning android from Udacity
